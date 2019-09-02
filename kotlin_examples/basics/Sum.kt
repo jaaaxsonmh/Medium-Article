@@ -1,5 +1,7 @@
 package kotlin_examples.basics
 
+import kotlin_examples.classes.Person
+
 fun sum(a: Int, b: Int): Int {
     return a + b
 }
