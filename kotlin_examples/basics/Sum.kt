@@ -1,4 +1,4 @@
-package kotlin_examples
+package kotlin_examples.basics
 
 fun sum(a: Int, b: Int): Int {
     return a + b

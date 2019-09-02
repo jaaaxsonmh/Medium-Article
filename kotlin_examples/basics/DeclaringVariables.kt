@@ -1,4 +1,4 @@
-package kotlin_examples
+package kotlin_examples.basics
 
 fun main(args: Array<String>){
     val name = "Jack" //can't be reassigned as it is immutable

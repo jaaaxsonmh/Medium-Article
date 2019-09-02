@@ -1,4 +1,4 @@
-package kotlin_examples
+package kotlin_examples.basics
 
 fun main(args: Array<String>) {
     fun sum(a: Int, b: Int) = a + b
