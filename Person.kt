@@ -1,4 +1,4 @@
-data class Person(val firstName: String, val lastName: String, val age: Int)
+data class Person(var firstName: String, var lastName: String, var age: Int)
 
 
 

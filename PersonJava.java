@@ -1,5 +1,3 @@
-import java.util.Date;
-
 public class PersonJava {
     private String firstName;
     private String lastName;
