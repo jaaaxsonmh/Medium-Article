@@ -1,4 +1,4 @@
-package Java;
+package java_examples;
 
 public class Person {
     private String firstName;
