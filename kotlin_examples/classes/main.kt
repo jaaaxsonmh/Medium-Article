@@ -23,4 +23,7 @@ fun main(args: Array<String>) {
 
     val jacksID = Identification(jack.firstName, jack.lastName)
     println(jacksID.fullName)
+
+    println(Greeting().goodMorning())
+    println(GermanGreeting().goodMorning())
 }
